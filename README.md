@@ -1,10 +1,10 @@
 # Proyecto-de-Catedra-Daw
   Integrantes del proyecto
-  
-  Bryan Adonay Flores Vasquez FV181506
-  Juan Francisco Castro Monge CM200207
-  Henry Alexander Ayala Escobar - AE210023
-  Javier Eliseo Gutierrez Flores GF220089
+
+Bryan Adonay Flores Vasquez FV181506 (Frond End, Analista de base de datos)
+Juan Francisco Castro Monge CM200207 (Analista en software, Tester)
+Henry Alexander Ayala Escobar - AE210023 (Jefe de proyecto, Desarrollador de software)
+Javier Eliseo Gutierrez Flores GF220089 (Back End, Tester)
 
 Descripcion del proyecto 
  
