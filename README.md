@@ -17,9 +17,9 @@ validaciones y sus respectiva conexcionala base de datos de firebase.
 enlace de trello aqui le compartimos la solicitud para que pueda visualizar las etapas del proyecto
 https://trello.com/invite/b/hdgXGTua/ATTI0b4f9d24ffba740c12df47abcad79382007D0EF4/fase-1
  
- enlace de los mokups
+ enlace de los mockups
+ https://balsamiq.cloud/s16sitx/ppvldz6 (si no ve los mockups po favor quitarle zoom al proyecto)
  
-
  
  
  
