@@ -21,7 +21,6 @@ https://trello.com/invite/b/hdgXGTua/ATTI0b4f9d24ffba740c12df47abcad79382007D0EF
  https://balsamiq.cloud/s16sitx/ppvldz6 (si no ve los mockups por favor quitarle zoom al proyecto)
  
  
- 
- 
-
-
+ La carpeta donde se encuentra el proyecto para la primera entrega se llama "DAW_PROYECTO_FINAL1"
+ademas no contamos con un host para la pagina, para hacer uso del inicio de sesion con google 
+asegurase de que la url sea "localhost:(aca seria el numero del puerto)/(nombre de la pag).html"
